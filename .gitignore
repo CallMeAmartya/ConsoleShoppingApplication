@@ -1,0 +1,17 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+target/
+
+# Compiled Java classes and JAR files
+*.class
+*.jar
+
+# Eclipse
+.classpath
+.project
+
+# Sensitive or environment-specific information
+config.properties
+secrets.json
